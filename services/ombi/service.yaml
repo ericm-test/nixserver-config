@@ -2,4 +2,4 @@ host: eric-nuc
 appdata:
   - /var/lib/ombi
 ports:
-  - 3579:3579
+  - 5000:5000
